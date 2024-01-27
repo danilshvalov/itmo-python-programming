@@ -1,3 +1,10 @@
 .DS_Store
 __pycache__
 chess.db
+bin
+lib
+pyvenv.cfg
+Scripts
+.vscode
+venv
+*output*.txt
